@@ -841,5 +841,9 @@ div.content{
     .l1 .pro1, .l1 .pro2, .l1 .pro3 {
         height: 330px;
     }
+    .type{
+        top:-25px;
+        left:55px;
+    }
 
  }
